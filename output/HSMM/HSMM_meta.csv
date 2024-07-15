@@ -1,0 +1,267 @@
+"","Classification","state","entropy"
+"T0_CT_A01","3","Proliferating cells",2.65560298669241
+"T0_CT_A03","3","Proliferating cells",2.6440173448121
+"T0_CT_A05","3","Proliferating cells",2.65456083750168
+"T0_CT_A06","3","Proliferating cells",2.64604674033494
+"T0_CT_A07","3","Proliferating cells",2.63776467326625
+"T0_CT_A08","1","Differentiating myoblasts",2.64604180353099
+"T0_CT_A10","3","Proliferating cells",2.63061700142131
+"T0_CT_B01","3","Proliferating cells",2.60899277162468
+"T0_CT_B03","3","Proliferating cells",2.62915106585419
+"T0_CT_B05","3","Proliferating cells",2.62780309134655
+"T0_CT_B07","3","Proliferating cells",2.6320675172038
+"T0_CT_B08","3","Proliferating cells",2.65596705006602
+"T0_CT_B09","3","Proliferating cells",2.65789738622646
+"T0_CT_C02","3","Proliferating cells",2.63680115424454
+"T0_CT_C03","3","Differentiating myoblasts",2.63463758979265
+"T0_CT_C05","3","Proliferating cells",2.63260118986244
+"T0_CT_C06","4","Proliferating cells",2.60743588398782
+"T0_CT_C07","3","Proliferating cells",2.62420716676288
+"T0_CT_C08","3","Proliferating cells",2.64390039015062
+"T0_CT_C11","2","Proliferating cells",2.62999066940499
+"T0_CT_C12","3","Proliferating cells",2.6341488067425
+"T0_CT_D01","3","Proliferating cells",2.64217175590261
+"T0_CT_D02","3","Proliferating cells",2.63014876201783
+"T0_CT_D03","3","Proliferating cells",2.64813350584847
+"T0_CT_D05","4","Proliferating cells",2.62422728540178
+"T0_CT_D06","3","Proliferating cells",2.63614039772445
+"T0_CT_D07","3","Proliferating cells",2.64088142555118
+"T0_CT_D08","3","Proliferating cells",2.62819166554224
+"T0_CT_D09","2","Proliferating cells",2.62785335884197
+"T0_CT_D11","3","Proliferating cells",2.61951169439745
+"T0_CT_D12","3","Proliferating cells",2.64225290283603
+"T0_CT_E01","3","Proliferating cells",2.63856906483238
+"T0_CT_E03","3","Proliferating cells",2.64773353986967
+"T0_CT_E04","3","Proliferating cells",2.62682151028718
+"T0_CT_E05","4","Differentiating myoblasts",2.61609461476691
+"T0_CT_E06","3","Proliferating cells",2.62899179475667
+"T0_CT_E07","3","Proliferating cells",2.63441292075268
+"T0_CT_E08","3","Proliferating cells",2.64443381780338
+"T0_CT_E09","3","Proliferating cells",2.64294213685374
+"T0_CT_E11","3","Proliferating cells",2.61662202517597
+"T0_CT_E12","3","Proliferating cells",2.6027374947303
+"T0_CT_F01","3","Proliferating cells",2.65071205217667
+"T0_CT_F02","3","Proliferating cells",2.62723593062385
+"T0_CT_F03","3","Proliferating cells",2.63739074349835
+"T0_CT_F04","3","Proliferating cells",2.62985293314547
+"T0_CT_F05","3","Proliferating cells",2.61928834868978
+"T0_CT_F06","3","Proliferating cells",2.64450981825025
+"T0_CT_F07","3","Proliferating cells",2.64172016143764
+"T0_CT_F09","2","Proliferating cells",2.62243824355365
+"T0_CT_F11","3","Proliferating cells",2.61451803271309
+"T0_CT_F12","3","Proliferating cells",2.63814943554239
+"T0_CT_G01","3","Proliferating cells",2.64198826666996
+"T0_CT_G02","3","Proliferating cells",2.62817344773243
+"T0_CT_G03","3","Proliferating cells",2.62398990302998
+"T0_CT_G04","3","Proliferating cells",2.63590299468295
+"T0_CT_G07","3","Proliferating cells",2.66062467347107
+"T0_CT_G08","3","Proliferating cells",2.6388379163305
+"T0_CT_G09","4","Differentiating myoblasts",2.65042265941825
+"T0_CT_G11","3","Proliferating cells",2.62641342408366
+"T0_CT_H01","4","Proliferating cells",2.62571620623206
+"T0_CT_H02","3","Proliferating cells",2.63053709167241
+"T0_CT_H04","3","Proliferating cells",2.62200020096192
+"T0_CT_H05","3","Proliferating cells",2.6238741409564
+"T0_CT_H08","3","Proliferating cells",2.63416476084705
+"T0_CT_H09","3","Proliferating cells",2.59853391690765
+"T0_CT_H12","3","Proliferating cells",2.61029425015738
+"T24_CT_A01","1","Differentiating myoblasts",2.61752946529574
+"T24_CT_A03","2","Interstitial mesenchymal cells",2.62066960555482
+"T24_CT_A04","2","Proliferating cells",2.62155636152878
+"T24_CT_A05","3","Proliferating cells",2.60929037052975
+"T24_CT_A07","2","Interstitial mesenchymal cells",2.63408161784381
+"T24_CT_A08","1","Differentiating myoblasts",2.63467263213046
+"T24_CT_A09","1","Differentiating myoblasts",2.60983123781454
+"T24_CT_A10","4","Differentiating myoblasts",2.61512875710953
+"T24_CT_B01","4","Differentiating myoblasts",2.62086674835823
+"T24_CT_B02","1","Differentiating myoblasts",2.59595449547473
+"T24_CT_B03","2","Differentiating myoblasts",2.64506554948074
+"T24_CT_B05","2","Interstitial mesenchymal cells",2.63387587248586
+"T24_CT_B06","2","Differentiating myoblasts",2.62045423578292
+"T24_CT_B07","1","Differentiating myoblasts",2.61628326059148
+"T24_CT_B08","2","Interstitial mesenchymal cells",2.60351735739252
+"T24_CT_B09","1","Differentiating myoblasts",2.6217087519629
+"T24_CT_B11","3","Proliferating cells",2.63856424252231
+"T24_CT_C01","1","Differentiating myoblasts",2.60324875533085
+"T24_CT_C02","2","Interstitial mesenchymal cells",2.60610412959249
+"T24_CT_C03","4","Differentiating myoblasts",2.61995799062574
+"T24_CT_C05","2","Proliferating cells",2.61293754292595
+"T24_CT_C07","2","Differentiating myoblasts",2.62861756049741
+"T24_CT_C08","2","Interstitial mesenchymal cells",2.61503558842708
+"T24_CT_C09","2","Interstitial mesenchymal cells",2.5751105148424
+"T24_CT_C10","1","Differentiating myoblasts",2.6258116672441
+"T24_CT_C11","4","Differentiating myoblasts",2.60916544036743
+"T24_CT_C12","2","Interstitial mesenchymal cells",2.64160397365424
+"T24_CT_D01","2","Interstitial mesenchymal cells",2.61634845332506
+"T24_CT_D02","2","Proliferating cells",2.63845757165928
+"T24_CT_D03","2","Proliferating cells",2.62499290729088
+"T24_CT_D04","1","Differentiating myoblasts",2.62043335599844
+"T24_CT_D05","4","Differentiating myoblasts",2.62891724339288
+"T24_CT_D06","1","Differentiating myoblasts",2.61616027704354
+"T24_CT_D07","4","Differentiating myoblasts",2.61675822133609
+"T24_CT_D08","2","Interstitial mesenchymal cells",2.61952720250996
+"T24_CT_D09","2","Interstitial mesenchymal cells",2.62081204736887
+"T24_CT_D10","2","Proliferating cells",2.61679192888248
+"T24_CT_D11","2","Interstitial mesenchymal cells",2.62056453841755
+"T24_CT_E01","4","Differentiating myoblasts",2.63551371772886
+"T24_CT_E02","1","Differentiating myoblasts",2.62788931036226
+"T24_CT_E04","2","Interstitial mesenchymal cells",2.61642160881018
+"T24_CT_E05","1","Differentiating myoblasts",2.59715607158294
+"T24_CT_E07","4","Differentiating myoblasts",2.63021899944938
+"T24_CT_E09","1","Differentiating myoblasts",2.60399131447658
+"T24_CT_E11","1","Differentiating myoblasts",2.61417206480306
+"T24_CT_E12","2","Interstitial mesenchymal cells",2.62745694355472
+"T24_CT_F01","2","Differentiating myoblasts",2.63198377611691
+"T24_CT_F02","2","Proliferating cells",2.62775934319168
+"T24_CT_F03","4","Differentiating myoblasts",2.63008079084001
+"T24_CT_F04","4","Differentiating myoblasts",2.60874131676348
+"T24_CT_F05","4","Differentiating myoblasts",2.63736547064834
+"T24_CT_F07","4","Differentiating myoblasts",2.58649461939748
+"T24_CT_F08","1","Differentiating myoblasts",2.60614649163883
+"T24_CT_F09","2","Proliferating cells",2.60706773051185
+"T24_CT_F10","4","Differentiating myoblasts",2.64256951657537
+"T24_CT_F11","4","Differentiating myoblasts",2.62168413011569
+"T24_CT_F12","2","Proliferating cells",2.65125070533695
+"T24_CT_G01","2","Proliferating cells",2.62768886504806
+"T24_CT_G02","1","Differentiating myoblasts",2.62444613123823
+"T24_CT_G03","1","Differentiating myoblasts",2.60572704172894
+"T24_CT_G04","2","Differentiating myoblasts",2.65195029955505
+"T24_CT_G05","2","Interstitial mesenchymal cells",2.59612495499835
+"T24_CT_G06","1","Differentiating myoblasts",2.62957329804222
+"T24_CT_G08","1","Differentiating myoblasts",2.61012505727742
+"T24_CT_G10","2","Proliferating cells",2.64513596618301
+"T24_CT_G11","1","Differentiating myoblasts",2.61188172592159
+"T24_CT_G12","1","Differentiating myoblasts",2.62926454779894
+"T24_CT_H01","3","Proliferating cells",2.64474129877423
+"T24_CT_H02","1","Differentiating myoblasts",2.6070530046663
+"T24_CT_H03","2","Proliferating cells",2.61368854753601
+"T24_CT_H05","4","Differentiating myoblasts",2.59246770641177
+"T24_CT_H07","4","Differentiating myoblasts",2.61557572688914
+"T24_CT_H09","1","Differentiating myoblasts",2.60851298892553
+"T24_CT_H12","1","Differentiating myoblasts",2.63376630374335
+"T48_CT_A01","2","Interstitial mesenchymal cells",2.62142540961932
+"T48_CT_A02","2","Interstitial mesenchymal cells",2.62756536081442
+"T48_CT_A03","1","Differentiating myoblasts",2.62255608276199
+"T48_CT_A04","2","Interstitial mesenchymal cells",2.6222127170144
+"T48_CT_A05","4","Differentiating myoblasts",2.64348296058185
+"T48_CT_A06","1","Differentiating myoblasts",2.60199093035621
+"T48_CT_A07","3","Proliferating cells",2.64928408255706
+"T48_CT_A08","2","Differentiating myoblasts",2.63397403185535
+"T48_CT_A09","4","Differentiating myoblasts",2.63480737811897
+"T48_CT_A10","2","Interstitial mesenchymal cells",2.6197491917681
+"T48_CT_A11","2","Interstitial mesenchymal cells",2.62529132433084
+"T48_CT_A12","4","Differentiating myoblasts",2.63115067140654
+"T48_CT_B01","2","Interstitial mesenchymal cells",2.600682847132
+"T48_CT_B02","2","Interstitial mesenchymal cells",2.61296413667765
+"T48_CT_B03","1","Differentiating myoblasts",2.60793128629618
+"T48_CT_B04","1","Differentiating myoblasts",2.62471356442934
+"T48_CT_B06","2","Interstitial mesenchymal cells",2.61938584871612
+"T48_CT_B08","1","Differentiating myoblasts",2.62724100038543
+"T48_CT_B10","2","Interstitial mesenchymal cells",2.61976378124001
+"T48_CT_B11","2","Interstitial mesenchymal cells",2.61524965176382
+"T48_CT_B12","4","Differentiating myoblasts",2.64142157985234
+"T48_CT_C01","2","Interstitial mesenchymal cells",2.6142610256135
+"T48_CT_C03","2","Interstitial mesenchymal cells",2.61941352884371
+"T48_CT_C04","1","Differentiating myoblasts",2.59660731728585
+"T48_CT_C05","2","Differentiating myoblasts",2.6206859209864
+"T48_CT_C06","2","Differentiating myoblasts",2.65126854544125
+"T48_CT_C07","4","Differentiating myoblasts",2.63365516495593
+"T48_CT_C09","2","Proliferating cells",2.63841513476845
+"T48_CT_C10","4","Differentiating myoblasts",2.63475756953288
+"T48_CT_C11","2","Differentiating myoblasts",2.63159502584527
+"T48_CT_D01","4","Differentiating myoblasts",2.63025461513528
+"T48_CT_D02","4","Differentiating myoblasts",2.60465589616614
+"T48_CT_D03","1","Differentiating myoblasts",2.61798192012988
+"T48_CT_D04","2","Differentiating myoblasts",2.61690775612459
+"T48_CT_D06","2","Proliferating cells",2.62289111837803
+"T48_CT_D07","2","Interstitial mesenchymal cells",2.63003078371625
+"T48_CT_D08","4","Differentiating myoblasts",2.60951958192506
+"T48_CT_D09","2","Differentiating myoblasts",2.62532567000002
+"T48_CT_D10","4","Differentiating myoblasts",2.62720992655883
+"T48_CT_D11","2","Proliferating cells",2.6379337985969
+"T48_CT_D12","1","Differentiating myoblasts",2.61837941752718
+"T48_CT_E01","4","Differentiating myoblasts",2.64764688335828
+"T48_CT_E02","4","Differentiating myoblasts",2.6293357113449
+"T48_CT_E03","4","Differentiating myoblasts",2.65243796412269
+"T48_CT_E04","4","Differentiating myoblasts",2.6333985752185
+"T48_CT_E05","2","Differentiating myoblasts",2.62258321884955
+"T48_CT_E06","1","Differentiating myoblasts",2.60785293481241
+"T48_CT_E07","1","Differentiating myoblasts",2.63732431804888
+"T48_CT_E08","2","Interstitial mesenchymal cells",2.61933061070151
+"T48_CT_E10","1","Differentiating myoblasts",2.62152158548257
+"T48_CT_E11","4","Differentiating myoblasts",2.63899184546903
+"T48_CT_E12","3","Proliferating cells",2.63344032137493
+"T48_CT_F01","2","Interstitial mesenchymal cells",2.60854379357351
+"T48_CT_F02","4","Differentiating myoblasts",2.60552818637698
+"T48_CT_F03","4","Differentiating myoblasts",2.60123942691194
+"T48_CT_F05","2","Differentiating myoblasts",2.61576799852937
+"T48_CT_F07","4","Differentiating myoblasts",2.61679633058337
+"T48_CT_F09","2","Interstitial mesenchymal cells",2.62513382633976
+"T48_CT_F10","4","Differentiating myoblasts",2.59027909273169
+"T48_CT_F11","1","Differentiating myoblasts",2.62039850209878
+"T48_CT_G01","1","Differentiating myoblasts",2.62722285786739
+"T48_CT_G02","2","Interstitial mesenchymal cells",2.64192204559587
+"T48_CT_G03","2","Interstitial mesenchymal cells",2.62276030830933
+"T48_CT_G07","2","Interstitial mesenchymal cells",2.62334966772589
+"T48_CT_G08","2","Differentiating myoblasts",2.66420537976596
+"T48_CT_G09","4","Differentiating myoblasts",2.65286302091622
+"T48_CT_G10","1","Proliferating cells",2.6401786203193
+"T48_CT_G11","4","Differentiating myoblasts",2.63195969821568
+"T48_CT_G12","2","Interstitial mesenchymal cells",2.61219920415221
+"T48_CT_H01","2","Interstitial mesenchymal cells",2.59726804484343
+"T48_CT_H02","4","Differentiating myoblasts",2.65879902302588
+"T48_CT_H05","2","Interstitial mesenchymal cells",2.61467732514685
+"T48_CT_H06","2","Interstitial mesenchymal cells",2.62052027694842
+"T48_CT_H07","4","Differentiating myoblasts",2.62608421777747
+"T48_CT_H08","2","Interstitial mesenchymal cells",2.64257605988888
+"T48_CT_H11","4","Differentiating myoblasts",2.62456373175435
+"T48_CT_H12","2","Interstitial mesenchymal cells",2.62023539537372
+"T72_CT_A01","2","Proliferating cells",2.62209073089567
+"T72_CT_A05","2","Differentiating myoblasts",2.63403255792872
+"T72_CT_A08","4","Differentiating myoblasts",2.64065930970011
+"T72_CT_A09","2","Differentiating myoblasts",2.64955058083202
+"T72_CT_A11","2","Differentiating myoblasts",2.63611549842533
+"T72_CT_B01","2","Interstitial mesenchymal cells",2.6389337679192
+"T72_CT_B02","1","Differentiating myoblasts",2.65191765462401
+"T72_CT_B03","4","Differentiating myoblasts",2.6576632722859
+"T72_CT_B04","1","Differentiating myoblasts",2.64469266636508
+"T72_CT_B05","4","Differentiating myoblasts",2.64319347018287
+"T72_CT_B06","1","Differentiating myoblasts",2.64645686310402
+"T72_CT_B08","3","Proliferating cells",2.65106387344672
+"T72_CT_B09","1","Differentiating myoblasts",2.57083976759206
+"T72_CT_B11","4","Differentiating myoblasts",2.63405919975966
+"T72_CT_B12","2","Differentiating myoblasts",2.63118612064301
+"T72_CT_C04","2","Proliferating cells",2.6492572254908
+"T72_CT_C06","4","Differentiating myoblasts",2.65652334205984
+"T72_CT_C07","2","Proliferating cells",2.63281103984488
+"T72_CT_C09","4","Differentiating myoblasts",2.65486753419706
+"T72_CT_C11","3","Proliferating cells",2.65960259642911
+"T72_CT_D01","2","Differentiating myoblasts",2.64445319225148
+"T72_CT_D03","1","Differentiating myoblasts",2.6453570068638
+"T72_CT_D04","2","Differentiating myoblasts",2.64223550809311
+"T72_CT_D05","4","Differentiating myoblasts",2.6401142933863
+"T72_CT_D07","4","Differentiating myoblasts",2.64408298129807
+"T72_CT_D10","4","Differentiating myoblasts",2.65447641109066
+"T72_CT_D11","1","Differentiating myoblasts",2.63010760362864
+"T72_CT_E04","4","Differentiating myoblasts",2.64017433146281
+"T72_CT_E05","2","Proliferating cells",2.65086989288355
+"T72_CT_E07","2","Differentiating myoblasts",2.61549564139293
+"T72_CT_F01","2","Differentiating myoblasts",2.64427601066325
+"T72_CT_F05","2","Interstitial mesenchymal cells",2.64227272860816
+"T72_CT_F07","4","Differentiating myoblasts",2.63873230057869
+"T72_CT_F10","2","Proliferating cells",2.6371011825218
+"T72_CT_F11","2","Proliferating cells",2.65345084846737
+"T72_CT_G03","1","Differentiating myoblasts",2.62968447437684
+"T72_CT_G04","1","Differentiating myoblasts",2.61921210305284
+"T72_CT_G06","2","Proliferating cells",2.62574808186041
+"T72_CT_G08","2","Differentiating myoblasts",2.62848010823257
+"T72_CT_G10","2","Proliferating cells",2.63539269899974
+"T72_CT_G11","4","Differentiating myoblasts",2.62407737751726
+"T72_CT_H01","2","Interstitial mesenchymal cells",2.63213827249397
+"T72_CT_H03","2","Differentiating myoblasts",2.63352808310488
+"T72_CT_H05","3","Proliferating cells",2.64025981965192
+"T72_CT_H08","3","Proliferating cells",2.63055755002686
+"T72_CT_H09","3","Proliferating cells",2.6588745953602
+"T72_CT_H10","4","Differentiating myoblasts",2.63987868155037
+"T72_CT_H11","4","Differentiating myoblasts",2.6305262654618
+"T72_CT_H12","2","Proliferating cells",2.64027234268773
