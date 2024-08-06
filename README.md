@@ -9,7 +9,7 @@
 #### Our script is mainly based on R (version 4.32) and Python (version 3.7.16) with several packages as follows:
 
 - Python: numpy, pandas, matplotlab, scanpy, anndata, sklearn, etc.
-- R: cluster, Seurat, dplyr, ggplot2, CellChat, ggalluvial, svglite, scran, etc.
+- R: cluster, Seurat, dplyr, ggplot2, CellChat v1, ggalluvial, svglite, scran, etc.
 - For packages required but not list above, please refer to corresponding website for installation.
 
 ### Directory Overview:
