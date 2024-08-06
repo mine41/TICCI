@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.Rda filter=lfs diff=lfs merge=lfs -text
+data/hs_km.Rda filter=lfs diff=lfs merge=lfs -text
