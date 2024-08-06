@@ -40,10 +40,11 @@ Following datasets can be downloaded from: http://research.cchmc.org/pbge/slice.
 ### Implementation:
 
 1.Download and unzip the TICCI package, or git clone TICCI to local repository.
-2. Install the necessary R adn Python dependencies.
-3. Run the R scripts.
+2.upzip the package in data folder
+3. Install the necessary R adn Python dependencies.
+4. Run the R scripts.
    - Input: RDS raw data.
    - Output: Preprocessed data_csv, state label, single cell entropy, kmeans label, cellchat_net result
-4. Run the root directory Python scrpits.
+5. Run the root directory Python scrpits.
    - Input: preprocessed data_csv, state label, single cell entropy, kmeans label, cellchat_net result
    - Output: Final result h5ad, result images
