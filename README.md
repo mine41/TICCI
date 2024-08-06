@@ -28,9 +28,9 @@
 3. HSMM_1.R: Preprocessing data and generating CCI information on HSMM data
 4. HSMM_2.ipynb: Reconstructing trajectories and Analyzing pseudotime on HSMM data
 
-### TICCI is based on following datasets which are downloaded from Guo M, Bao EL, Wagner M, Whitsett JA, Xu Y. 2016:
+### TICCI is based on following datasets which are downloaded from Guo M, Bao EL, Wagner M, Whitsett JA, Xu Y. 2016 https://doi.org/10.1093/nar/gkw1278:
 
-Dataset can be downloaded from: http://research.cchmc.org/pbge/slice.html
+Following datasets can be downloaded from: http://research.cchmc.org/pbge/slice.html
 
 1. GSE52583.Rda: The R data object file for the SLICE demonstration contains scRNA-seq data from Treutlein et al., 2014. It includes alveolar type 2 (AT2) cells from E14.5, E16.5, E18.5, and adult mouse lungs, as well as three populations of epithelial cells at E18.5 (EPI). Expression profiles with identical gene symbol annotations were averaged.
 2. hs_km.Rda: This R data object file contains a pre-compiled pairwise Kappa similarity matrix for human genes. The similarity is based on GO_BP_FAT annotations, which were downloaded from DAVID on December 13, 2015.
@@ -39,12 +39,11 @@ Dataset can be downloaded from: http://research.cchmc.org/pbge/slice.html
 
 ### Implementation:
 
-1. Download the datasets from the website: http://research.cchmc.org/pbge/slice.html.
-2. Put the four datasets into the folder data: GSE52583.Rda, hs_km.Rda, HSMM.Rda, mm_km.Rda.
-3. Open R GUI and install the necessary dependencies.
-4. Run the R scripts.
+1.Download and unzip the TICCI package, or git clone TICCI to local repository.
+2. Install the necessary R adn Python dependencies.
+3. Run the R scripts.
    - Input: RDS raw data.
    - Output: Preprocessed data_csv, state label, single cell entropy, kmeans label, cellchat_net result
-5. Run the root directory Python scrpits.
+4. Run the root directory Python scrpits.
    - Input: preprocessed data_csv, state label, single cell entropy, kmeans label, cellchat_net result
    - Output: Final result h5ad, result images
