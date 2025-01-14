@@ -21,7 +21,7 @@
 - R_tools: Encapsulated R functions
 - Rdata: Save records of variables in each stage of running R
 
-### Scripts in the SLICE package
+### Scripts in the package
 
 1. AT2_1.R: Preprocessing data and generating CCI information on AT2 data
 2. AT2_2.ipynb: Reconstructing trajectories and Analyzing pseudotime on AT2 data
